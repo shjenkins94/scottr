@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "shjenkins94@gmail.om",
            comment = c(ORCID = "0000-0003-2138-427X"))
-Description: This is a personal package of useful functions
+Description: This is a personal package of useful functions.
 License: MIT + file LICENSE
 Suggests: 
     testthat (>= 3.0.0)
