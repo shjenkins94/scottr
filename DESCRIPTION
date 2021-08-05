@@ -2,12 +2,12 @@ Package: scottr
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Scott",
+           family = "Jenkins",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "shjenkins94@gmail.om",
+           comment = c(ORCID = "0000-0003-2138-427X"))
+Description: This is a personal package of useful functions
 License: MIT + file LICENSE
 Suggests: 
     testthat (>= 3.0.0)
